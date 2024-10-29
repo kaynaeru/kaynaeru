@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hello! Kristania's here!✨
+
+Computer Student, focusing on Digital Creative Technology. I am very passionate in IT field, especially in software development. I love learning and exploring things related to my interests.
+
+## _**👾 What I've Learned:**_
+
+HTML, CSS, C, MySQL, Java, Laravel, PHP, Android Studio, Python
+
+
+
+## _**👾 Tools I Usually Use:**_
+
+Visual Studio Code, Android Studio
+
+
+## _**👾 Projects I'm Currently Working On:**_
+
+Personal Website (V2), TicTacToe Game, Stylo
 
 <!--
 **kaynaeru/kaynaeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
