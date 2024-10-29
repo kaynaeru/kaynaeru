@@ -1,6 +1,6 @@
 # Hello! Kristania's here!✨
 
-Computer Student, focusing on Digital Creative Technology. I am very passionate in IT field, especially in software development. I love learning and exploring things related to my interests.
+Computer Science Student, focusing on Digital Creative Technology. I am very passionate in IT field, especially in software development. I love learning and exploring things related to my interests.
 
 ## _**👾 What I've Learned:**_
 
