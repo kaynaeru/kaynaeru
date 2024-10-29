@@ -10,7 +10,7 @@ HTML, CSS, C, MySQL, Java, Laravel, PHP, Python, Kotlin
 
 ## _**👾 Tools I Usually Use:**_
 
-Visual Studio Code, Android Studio
+Visual Studio Code, Android Studio, Figma
 
 
 ## _**👾 Projects I'm Currently Working On:**_
