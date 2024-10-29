@@ -15,7 +15,9 @@ Visual Studio Code, Android Studio
 
 ## _**👾 Projects I'm Currently Working On:**_
 
-Personal Website (V2), TicTacToe Game, Stylo
+1. Personal Website V2 (HTML, CSS, JS)
+2. Stylo (https://github.com/ayyrinn/Stylo) (Kotlin)
+3. TicTacToe Game (Java)
 
 <!--
 **kaynaeru/kaynaeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
