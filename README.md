@@ -4,7 +4,7 @@ Computer Student, focusing on Digital Creative Technology. I am very passionate 
 
 ## _**👾 What I've Learned:**_
 
-HTML, CSS, C, MySQL, Java, Laravel, PHP, Android Studio, Python
+HTML, CSS, C, MySQL, Java, Laravel, PHP, Python, Kotlin
 
 
 
