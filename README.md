@@ -4,7 +4,7 @@ Computer Science Student, focusing on Digital Creative Technology. I am very pas
 
 ## _**👾 What I've Learned:**_
 
-HTML, CSS, C, MySQL, Java, Laravel, PHP, Python, Kotlin
+HTML, CSS, C, MySQL, Java, Laravel, PHP/Python, Kotlin, Dart/Flutter
 
 
 
